@@ -1,14 +1,13 @@
 📚 Student
-Graduated in Business Economics in 2021, currently attending an IFTS course "Tecnico per la progettazione e lo sviluppo di applicazioni informatiche" in Reggio Emilia (Italy)
+Graduated in _Business Economics_ in 2021, currently attending an IFTS course "Tecnico per la progettazione e lo sviluppo di applicazioni informatiche" in Reggio Emilia (Italy) <br>
 <br> Learning and mastering:
-<ul>
-  <li> SQL
+   <li> <b>Python</b>
+   <li> SQL
    <li> C#
-   <li> Python
    <li> Java
    <li> JavaScript
-</ul>
-      
+
+
 
 <!---
 mariavaleriabonini/mariavaleriabonini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
