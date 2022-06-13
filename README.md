@@ -1,5 +1,5 @@
 📚 Student
-Graduated in _Business Economics_ in 2021, currently attending an IFTS course "Tecnico per la progettazione e lo sviluppo di applicazioni informatiche" in Reggio Emilia (Italy) <br>
+Graduated in _Business Economics_ in 2021, currently attending an IFTS course "Tecnico per la progettazione e lo sviluppo di applicazioni informatiche" in Reggio Emilia (Italy) and working with Salesforce  <br>
 <br> Learning and mastering:
    <li> <b>Python</b>
    <li> SQL
