@@ -10,7 +10,7 @@ In cerca per il ruolo di: Business Consultant / Data Analyst
 ---
 
 - 💻 **Data Analyst** with BI tools like **PowerBI** and **QlikSense**
-- 🌍 I'm based in Modena, Italy
+- 🌍 I'm based in **Modena**, Italy
 - 🤝 Open for full remote or Hybrid opportunities 
 - ✉️ Contact me at mariavaleriabonini@gmail.com
 
