@@ -1,13 +1,20 @@
-📚 Student
-Graduated in _Business Economics_ in 2021, currently attending an IFTS course "Tecnico per la progettazione e lo sviluppo di applicazioni informatiche" in Reggio Emilia (Italy) and working with Salesforce  <br>
-<br> Learning and mastering:
-   <li> <b>QlikSense</b>
-   <li> PowerBI
+
+# MARIA VALERIA Bonini
+
+In cerca per il ruolo di: Business Consultant / Data Analyst 
+
+- 💻 Business Analyst con strumenti come PowerBI e QlikSense
+- 🌍 Mi trovo a Modena
+- 🤝 Cerco opportunità a distanza o con modalità ibrida 
+- ✉️ Contattami! mariavaleriabonini@gmail.com
+---
+
+- 💻 Business Analyst with BI tools like PowerBI and QlikSense
+- 🌍 I'm based in Modena, Italy
+- 🤝 Open for full remote or Hybrid opportunities 
+- ✉️ Contact me at mariavaleriabonini@gmail.com
 
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-
-<!---
-mariavaleriabonini/mariavaleriabonini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
