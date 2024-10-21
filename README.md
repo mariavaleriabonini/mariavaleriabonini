@@ -1,15 +1,15 @@
 
 # MARIA VALERIA Bonini
 
-In cerca per il ruolo di: Business Consultant / Data Analyst 
+In cerca per il ruolo di: Business Intelligence Consultant / Data Analyst 
 
-- 💻 **Data Analyst** con strumenti come **PowerBI** e **QlikSense**
+- 💻 **Business Intelligence Consultant** con **PowerBI** e **QlikSense**
 - 🌍 Mi trovo a **Modena**
 - 🤝 Cerco opportunità a distanza o con modalità ibrida 
 - ✉️ Contattami! mariavaleriabonini@gmail.com
 ---
 
-- 💻 **Data Analyst** with BI tools like **PowerBI** and **QlikSense**
+- 💻 **Business Intelligence Consultant** with BI tools ( **PowerBI** / **QlikSense**)
 - 🌍 I'm based in **Modena**, Italy
 - 🤝 Open for full remote or Hybrid opportunities 
 - ✉️ Contact me at mariavaleriabonini@gmail.com
